@@ -1,0 +1,36 @@
+.addTable{
+    border-collapse: separate;
+    border-spacing: 0 1em;
+    padding: 20px;
+}
+
+.addTable tr td{
+    padding: 10px;
+}
+
+.myLabel{
+    color: lightgreen;
+    font-family: 'Space Mono', monospace;
+}
+
+input{
+    outline: none;
+    border: 0px;
+    border-bottom: 2px solid lightgreen;
+    background-color: black;
+    color: lightgreen;
+    font-family: 'Space Mono', monospace;
+    width: 190px;
+}
+
+legend{
+    color: lightgreen;
+    font-family: 'Space Mono', monospace;
+    text-align: center;
+    margin-top: 30px;
+}
+
+form{
+    border: 2px solid lightgreen;
+    border-radius: 30px;
+}

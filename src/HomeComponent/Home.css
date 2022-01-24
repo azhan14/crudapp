@@ -1,0 +1,15 @@
+.myHeading{
+    color: lightgreen;
+    font-family: 'Space Mono', monospace;
+}
+
+.myContent{
+    height: 93vh;
+    width: 100%;
+    background-color: black;
+    border-top: 2px solid lightgreen;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

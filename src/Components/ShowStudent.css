@@ -1,0 +1,26 @@
+.showTable td{
+    color: lightseagreen;
+    padding: 20px;
+    font-family: 'Space Mono', monospace;
+    border: 1px solid lightseagreen;
+}
+
+thead tr th{
+    
+    color: lightgreen;
+    padding: 10px;
+    font-family: 'Space Mono', monospace;
+    
+}
+
+.mySearchNavLink{
+    text-decoration: none;
+    color: lightgreen;
+    margin-left: 20px;
+    font-family: 'Space Mono', monospace;
+    border: 1px solid lightgreen;
+}
+
+.searchBar{
+    margin-bottom: 10px;
+}
