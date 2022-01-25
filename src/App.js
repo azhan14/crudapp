@@ -16,6 +16,7 @@ function App() {
         <Routes>
           <Route path="/" element= {<Home/>}/>
           <Route path="/home" element= {<Home/>}/>
+          <Route path="/crudapp" element= {<Home/>}/>
           <Route path="/students" element= {<ShowStudent/>}/>
           <Route path="/students/delete/:id" element= {<DeleteStudent/>}/>
           <Route path="/students/update/:id" element= {<UpdateStudent/>}/>
